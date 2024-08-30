@@ -8,7 +8,6 @@ I've been learning to code for the last 4 years, I started with Python then some
 
 * ✉️  You can contact me at [patica100@gmail.com](mailto:patica100@gmail.com)
 * 🚀  I'm currently working on Top8.uk(https://top8.uk/)
-* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Django Rest-framework or Next
 
 ### Skills
