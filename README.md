@@ -6,7 +6,7 @@ Web developer with a love for Python.
 
 I've been learning to code for the last 4 years, I started with Python then some html, css and Javascript
 
-* ✉️  You can contact me at [patica100@gmail.com](mailto:patica100@gmail.com)
+* ✉️  You can contact me at [patica100@gmail.com](mailto:carlos@top8.uk)
 * 🚀  I'm currently working on Top8.uk(https://top8.uk/)
 * 🤝  I'm open to collaborating on Django Rest-framework or Next
 
